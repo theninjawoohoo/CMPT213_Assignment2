@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doge Seeker</string>
+    <string name="skipButton">Skip</string>
+    <string name="playGame">Play Game</string>
+    <string name="options">Options</string>
+    <string name="help">Help</string>
+    <string name="author">Made by Andy Wu</string>
+
+</resources>
